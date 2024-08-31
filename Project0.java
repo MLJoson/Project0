@@ -69,7 +69,7 @@ public class Project0 extends JFrame implements ActionListener {
 
 
 
-    System.out.print("hello world!");
+    //System.out.print("hello world!");
 
 
 
